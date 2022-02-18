@@ -14,4 +14,4 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fx64b&theme=dark">
 
 
-<img alt="Fx64b Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fx64b&bg_color=111&color=cccccc&line=404040&point=FFFFFF&hide_border=true" />
+<img alt="Fx64b Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=fx64b&bg_color=111&color=cccccc&line=404040&point=FFFFFF&hide_border=false" />
