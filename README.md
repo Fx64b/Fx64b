@@ -4,9 +4,10 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 <br>
 
 ## About me
-- Web App development
+- **Interested in:**
+  - Cyber Security (Network, Web Pentesting)
+  - Web App development
 - Linux user (Mint, Manjaro, Archcraft)
-- Interessted in Cyber Security (Network, Web Pentesting)
 - Currently learning
   - Nmap
   - Rust
