@@ -39,6 +39,6 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 <br>
 <div style="display: flex; flex-direction: row;">
   <img src="https://github-readme-stats.vercel.app/api?username=fx64b&count_private=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fx64b&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fx64b&theme=dark&layout=compact" />
 </div>
 
