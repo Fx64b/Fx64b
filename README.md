@@ -18,7 +18,7 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 - Frontend
   - HTML / CSS / JavaScript/TypeScript
   - Angular / React / Next.js
-  - Tailwindcss / Sass
+  - Tailwindcss / Scss
 - Backend
   - PHP
   - Node.js
