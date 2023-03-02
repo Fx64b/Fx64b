@@ -11,7 +11,6 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 - Currently learning
   - Nmap
   - Rust
-  - Android App development
 
 
 ## Skills
