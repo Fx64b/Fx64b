@@ -22,6 +22,9 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
   - PHP
   - Node.js
   - MySQL / MariaDB
+- Cyber Security
+  - NMAP
+  - Metasploit
 - Others
   - Bash
   - Markdown  
