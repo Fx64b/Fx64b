@@ -9,7 +9,7 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
   - Web App development
 - Linux user (Mint, Manjaro, Archcraft)
 - Currently learning
-  - SQL injection 
+  - The Learning Process
   - Rust
 
 
@@ -25,6 +25,7 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 - Cyber Security
   - NMAP
   - Metasploit
+  - SQL Injection
 - Others
   - Bash
   - Markdown  
