@@ -32,7 +32,7 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 
 ## Stats
 
-[![Fx64b's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Fx64b&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fx64b's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fx64b&bg_color=000000&color=ffffff&line=5e5c64&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fx64b&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Stats&layout=compact" />
 <div style="display: flex; flex-direction: row;">
