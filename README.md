@@ -9,7 +9,7 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
   - Web App development
 - Linux user (Mint, Manjaro, Archcraft)
 - Currently learning
-  - The Learning Process
+  - Web Requests
   - Rust
 
 
