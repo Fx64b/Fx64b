@@ -3,6 +3,10 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 
 <br>
 
+![](https://www.codewars.com/users/Fx64b/badges/large)
+
+<br>
+
 ## About me
 - **Interested in:**
   - Cyber Security (Network, Web Pentesting)
