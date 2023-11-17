@@ -14,7 +14,7 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 - Linux user (Mint, Manjaro, Archcraft)
 - Currently learning
   - Assembly / Binary Exploitation
-  - Rust
+  - Cybersecurity fundamentals
 
 
 ## Skills
