@@ -3,7 +3,7 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 
 <br>
 
-![](https://www.codewars.com/users/Fx64b/badges/large)
+**I'm currently working on:** [HackerGPT](https://github.com/Hacker-GPT/HackerGPT)
 
 <br>
 
