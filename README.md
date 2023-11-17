@@ -16,24 +16,6 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
   - Assembly / Binary Exploitation
   - Cybersecurity fundamentals
 
-
-## Skills
-- Frontend
-  - HTML / CSS / JavaScript/TypeScript
-  - Angular / React / Next.js
-  - Tailwindcss / Scss
-- Backend
-  - PHP
-  - Node.js
-  - MySQL / MariaDB
-- Cyber Security
-  - NMAP
-  - Metasploit
-  - SQL Injection
-- Others
-  - Bash
-  - Markdown  
-
 ## Stats
 
 [![Fx64b's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fx64b&bg_color=000000&color=ffffff&line=5e5c64&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
