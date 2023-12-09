@@ -15,6 +15,7 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 - Currently learning
   - Assembly / Binary Exploitation
   - Cybersecurity fundamentals
+- ICT-Skills 2023 competitor
 
 ## Stats
 
