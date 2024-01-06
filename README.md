@@ -13,7 +13,7 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
   - Web App development
 - Linux user (Mint, Manjaro, Archcraft)
 - Currently learning
-  - Assembly / Binary Exploitation
+  - Caching, SSR and Optimization
   - Cybersecurity fundamentals
 - ICT-Skills 2023 competitor
 
