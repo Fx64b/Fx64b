@@ -7,6 +7,10 @@ I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
 
 <br>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Fx64b&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+<br>
+
 ## About me
 - **Interested in:**
   - Cyber Security (Network, Web Pentesting)
