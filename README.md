@@ -1,5 +1,5 @@
 # Hi!
-I'm Fabio aka. Fx64b, an IT apprentice from Switzerland.
+I'm Fabio aka. Fx64b, a web dev from Switzerland.
 
 <br>
 
