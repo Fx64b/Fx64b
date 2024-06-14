@@ -21,7 +21,7 @@ I'm Fabio aka. Fx64b, a web dev from Switzerland.
   - Cybersecurity fundamentals
 - ICT-Skills 2023 competitor
 
-## Time Spent Coding..
+## Time Spent Coding
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Fx64b/interval:today&style=flat-square&color=2F855A&label=today" />
