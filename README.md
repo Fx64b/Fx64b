@@ -3,7 +3,7 @@ I'm Fabio aka. Fx64b, a web dev from Switzerland.
 
 <br>
 
-**I'm currently working on:** [HackerGPT 2.0](https://github.com/Hacker-GPT/HackerGPT-2.0)
+**I'm currently working on:** [PentestGPT](https://github.com/Hacker-GPT/HackerGPT-2.0)
 
 <br>
 
