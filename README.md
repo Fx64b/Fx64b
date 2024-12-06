@@ -3,7 +3,11 @@ I'm Fabio aka. Fx64b, a web dev from Switzerland.
 
 <br>
 
-**I'm currently working on:** [PentestGPT](https://github.com/Hacker-GPT/HackerGPT-2.0)
+**I'm currently working on:** [video-archiver](https://github.com/Fx64b/video-archiver)
+
+**Worked on:**
+- [PentestGPT](https://github.com/Hacker-GPT/HackerGPT-2.0)
+- [My Personal Website](https://fx64b.dev)
 
 <br>
 
@@ -17,7 +21,7 @@ I'm Fabio aka. Fx64b, a web dev from Switzerland.
   - Web App development
 - Linux user (Mint, Manjaro, Archcraft)
 - Currently learning
-  - Caching, SSR and Optimization
+  - GO
   - Cybersecurity fundamentals
 - ICT-Skills 2023 competitor
 
