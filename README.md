@@ -8,6 +8,7 @@ I'm Fabio aka. Fx64b, a web dev from Switzerland.
 **Worked on:**
 - [PentestGPT](https://github.com/Hacker-GPT/HackerGPT-2.0)
 - [My Personal Website](https://fx64b.dev)
+- [Skool Focus](https://github.com/Fx64b/skool-focus-extension)
 
 <br>
 
