@@ -3,10 +3,15 @@ I'm Fabio aka. Fx64b, a web dev from Switzerland.
 
 <br>
 
-**I'm currently working on:** [video-archiver](https://github.com/Fx64b/video-archiver)
+**I'm currently working on:** 
+- [Flashcard App](https://github.com/Fx64b/learn)
+- [video-archiver](https://github.com/Fx64b/video-archiver)
+
+<br>
 
 **Worked on:**
-- [PentestGPT](https://github.com/Hacker-GPT/HackerGPT-2.0)
+- [Skool Loom Downloader](https://github.com/Fx64b/skool-loom-dl)
+- [PentestGPT](https://github.com/hackerai-tech/PentestGPT)
 - [My Personal Website](https://fx64b.dev)
 - [Skool Focus](https://github.com/Fx64b/skool-focus-extension)
 
@@ -30,7 +35,6 @@ I'm Fabio aka. Fx64b, a web dev from Switzerland.
 
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Fx64b/interval:today&style=flat-square&color=2F855A&label=today" />
-  <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Fx64b/interval:30_days&style=flat-square&color=2F855A&label=last 30d" />
 </div>
 
 <br>
