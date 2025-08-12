@@ -34,7 +34,7 @@ I'm Fabio aka. Fx64b, a web dev from Switzerland.
 ## Time Spent Coding
 
 <div style="display: flex; flex-direction: row;">
-  <img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Fx64b/interval:today&style=flat-square&color=2F855A&label=today" />
+  <img src="https://wakapi.dev/api/badge/Fx64b/Fx64b/interval:30_days?label=last%2030d" />
 </div>
 
 <br>
