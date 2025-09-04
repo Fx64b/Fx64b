@@ -1,5 +1,7 @@
 # Hi!
-I'm Fabio aka. Fx64b, a software engineer from Switzerland building modern web applications with React, Next.js, TypeScript, and Go.
+I'm [Fabio](https://fabio-maffucci.ch) aka. [Fx64b](https://fx64b.dev), a software engineer from Switzerland building modern web applications with React, Next.js, TypeScript, and Go.
+
+
 
 ## Currently Working On
 - **[Flashcard App](https://github.com/Fx64b/learn)** - A modern spaced repetition learning app built with Next.js 15, TypeScript, Stripe integration, and Turso database. Features email authentication, study tracking, progress analytics, and bulk card import.
