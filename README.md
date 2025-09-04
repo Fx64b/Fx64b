@@ -11,8 +11,6 @@ I'm Fabio aka. Fx64b, a software engineer from Switzerland building modern web a
 - **[Skool Focus Extension](https://github.com/Fx64b/skool-focus-extension)** - Browser extension for enhanced focus
 - **[PentestGPT](https://github.com/hackerai-tech/PentestGPT)** - AI-powered penetration testing tool
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fx64b&theme=dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
 ## About Me
 **Interests:**
 - Web Application Development (React, Next.js, TypeScript)
