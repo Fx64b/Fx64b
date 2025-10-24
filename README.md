@@ -26,14 +26,6 @@ I'm [Fabio](https://fabio-maffucci.ch) aka. [Fx64b](https://fx64b.dev), a softwa
 - Advanced web security techniques
 
 **Background:**
-- Linux user (Manjaro, Fedora)
+- Linux user (Manjaro, Fedora, Omarchy)
+- Swiss Skills 2025 competitor
 - ICT-Skills 2023 competitor
-- Based in Switzerland
-
-## Development Activity
-
-<div style="display: flex; flex-direction: row;">
-  <img src="https://wakapi.dev/api/badge/Fx64b/Fx64b/interval:30_days?label=last%2030d" />
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Fx64b&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Last%20Year&layout=compact" />
